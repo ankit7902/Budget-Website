@@ -1,34 +1,30 @@
-# 💸 Expense Calculate App
+# 💰 Budget Website
 
-A simple, responsive web application to help you track and manage your daily expenses with ease.
+A responsive and intuitive budget management web application built with React and Vite. This app allows users to track their expenses, manage budgets, and gain insights into their financial habits.
 
 ## 🚀 Live Demo
 
-👉 [View App](https://expense-calculate-app.netlify.app/)
+👉 [View Live App](https://expense-calculate-app.netlify.app/)
 
 ---
 
 ## 📌 Features
 
-- ✅ Add new expenses with a title and amount
-- 📃 View a real-time list of your added expenses
-- 📊 Automatically calculates and displays the total expense
-- 🗑️ Remove individual expense entries
-- 💡 Clean, minimal, and user-friendly UI
+- ✅ Add and categorize expenses
+- 📊 View total expenses and remaining budget
+- 🗑️ Delete individual expense entries
+- 📈 Visual representation of spending patterns
+- 💡 Clean and user-friendly interface
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **HTML5** – Structure of the app
-- **CSS3** – Styling and layout
-- **JavaScript** – Core functionality and dynamic behavior
-
----
-
-## 📷 Screenshots
-
-*(You can add screenshots of the app interface here)*
+- **Frontend:** React
+- **Build Tool:** Vite
+- **Styling:** CSS3
+- **Linting:** ESLint
+- **Package Manager:** npm
 
 ---
 
