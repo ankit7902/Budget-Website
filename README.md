@@ -30,3 +30,4 @@ A responsive and intuitive budget management web application built with React an
 
 ## 📁 Project Structure
 
+Budget-Website/ ├── public/ ├── src/ │ ├── components/ │ ├── App.jsx │ └── index.js ├── .gitignore ├── index.html ├── package.json ├── vite.config.js └── README.md
