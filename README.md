@@ -34,6 +34,6 @@ Budget-Website/ ├── public/ ├── src/ │ ├── components/ │ �
 
 ---
 
-🙌 Contributing
+## 🙌 Contributing
 Contributions are welcome! Feel free to fork this repository, make your changes, and open a pull request. Bug reports, feature ideas, and suggestions are always appreciated.
 
