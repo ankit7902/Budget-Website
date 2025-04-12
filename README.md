@@ -1,12 +1,36 @@
-# React + Vite
+# 💸 Expense Calculate App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, responsive web application to help you track and manage your daily expenses with ease.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [View App](https://expense-calculate-app.netlify.app/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Features
+
+- ✅ Add new expenses with a title and amount
+- 📃 View a real-time list of your added expenses
+- 📊 Automatically calculates and displays the total expense
+- 🗑️ Remove individual expense entries
+- 💡 Clean, minimal, and user-friendly UI
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5** – Structure of the app
+- **CSS3** – Styling and layout
+- **JavaScript** – Core functionality and dynamic behavior
+
+---
+
+## 📷 Screenshots
+
+*(You can add screenshots of the app interface here)*
+
+---
+
+## 📁 Project Structure
+
