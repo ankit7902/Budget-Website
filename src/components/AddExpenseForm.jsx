@@ -1,10 +1,8 @@
-// react imports
+
 import { useEffect, useRef } from "react"
 
-// rrd imports
 import { useFetcher } from "react-router-dom"
 
-// library imports
 import { PlusCircleIcon } from "@heroicons/react/24/solid"
 
 const AddExpenseForm = ({ budgets }) => {
@@ -16,9 +14,9 @@ const AddExpenseForm = ({ budgets }) => {
 
   useEffect(() => {
     if (!isSubmitting) {
-      // clear form
+
       formRef.current.reset()
-      // reset focus
+
       focusRef.current.focus()
     }
 
